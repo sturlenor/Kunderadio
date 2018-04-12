@@ -1,0 +1,85 @@
+﻿<Page 
+    x:Class="Kunderadio.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:KundeRadio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <ImageSource x:Key="Plantasjen_logo">Assets/Wide310x150Logo.png</ImageSource>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row ="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+
+            <Image x:Name="plantasjen_logo" Grid.Row="0" Grid.Column="0" Source="Assets/plantasjen-logo.png"/>
+            <TextBlock x:Name="kalender" Grid.Row ="0" Grid.Column="1" Text="FInner ikke kalender" Foreground="Red" FontFamily="Arial Black" FontSize="15" FontWeight="Normal" HorizontalAlignment="Center" Width="Auto" Height="Auto" VerticalAlignment="Center"/>
+            <Button x:Name="open" Content="Button" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch" Grid.Column="2" FontFamily="Arial Black" FontSize="15"  Foreground="White" Background="Red" Width="Auto" Height="Auto" Click="Uvanlig_Click"/>
+            <Button x:Name="nattopen" Content="Button" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch" Grid.Column="3" FontFamily="Arial Black" FontSize="15"  Foreground="Yellow" Background="Black" Width="Auto" Height="Auto" Click="Natt_Click"/>
+
+
+        </Grid>
+
+        <!--Web view control-->
+        <WebView x:Name="webView" Grid.Row="1" Width="Auto" Height="Auto"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="Spotify" Click="Spotify_Click" Grid.Row="2" Grid.Column="0" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="ms-appx:///Assets/spotify.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Nrk" Click="Nrk_Click" Grid.Row="2" Grid.Column="1" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/nrk.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="P4" Click="P4_Click" Grid.Row="2" Grid.Column="2" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/p4.jpg" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="P5" Click="P5_Click" Grid.Row="2" Grid.Column="3" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/p5.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="P7" Click="P7_Click" Grid.Row="2" Grid.Column="4" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/p7.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Radionorge" Click="Radionorge_Click" Grid.Row="2" Grid.Column="5" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/radionorge.jpg" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+
+
+        </Grid>
+    </Grid>
+
+</Page>

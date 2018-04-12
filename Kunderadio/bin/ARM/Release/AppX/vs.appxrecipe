@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-R53VV8B</Machine>
+    <WindowsUser>stuno</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>8819f3a6-78d2-4d24-aee9-19440072d4ff</PackageIdentityName>
+    <PackageIdentityPublisher>CN=stuno</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\stuno\source\repos\KundeRadio\Kunderadio\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>4CDA237DA71676DEACB43A5CEF203373798902B3B2924D8973BDE7FE9194F835</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8819f3a6-78d2-4d24-aee9-19440072d4ff_1.0.0.0_arm__r0htt9vdrrynr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8819f3a6-78d2-4d24-aee9-19440072d4ff_r0htt9vdrrynr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8819f3a6-78d2-4d24-aee9-19440072d4ff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=stuno</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-22T09:22:12.235</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-12-08T23:56:03.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\nrk.png">
+      <PackagePath>Assets\nrk.png</PackagePath>
+      <Modified>2017-12-19T23:34:51.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\p4.jpg">
+      <PackagePath>Assets\p4.jpg</PackagePath>
+      <Modified>2017-12-09T21:51:58.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\p5.png">
+      <PackagePath>Assets\p5.png</PackagePath>
+      <Modified>2017-12-19T23:23:28.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\p7.png">
+      <PackagePath>Assets\p7.png</PackagePath>
+      <Modified>2017-12-19T23:23:28.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\plantasjen-logo.png">
+      <PackagePath>Assets\plantasjen-logo.png</PackagePath>
+      <Modified>2017-12-19T23:28:59.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\radionorge.jpg">
+      <PackagePath>Assets\radionorge.jpg</PackagePath>
+      <Modified>2017-12-09T21:51:58.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\spotify.png">
+      <PackagePath>Assets\spotify.png</PackagePath>
+      <Modified>2017-12-19T23:35:07.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:01.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-11T20:35:00.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T19:43:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\KundeRadio.dll">
+      <PackagePath>KundeRadio.dll</PackagePath>
+      <Modified>2017-12-22T09:22:11.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\KundeRadio.exe">
+      <PackagePath>KundeRadio.exe</PackagePath>
+      <Modified>2017-12-22T09:22:12.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\KundeRadio.pdb">
+      <PackagePath>KundeRadio.pdb</PackagePath>
+      <Modified>2017-12-22T09:22:12.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stuno\source\repos\KundeRadio\Kunderadio\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-22T09:21:46.015</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
